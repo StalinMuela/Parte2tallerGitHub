@@ -1,0 +1,10 @@
+body{
+    box-sizing: content-box;
+}
+.container{
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    width: 70%;
+    
+}
